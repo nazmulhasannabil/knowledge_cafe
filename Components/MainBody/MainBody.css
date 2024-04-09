@@ -1,0 +1,7 @@
+.main-body{
+    padding: 0 150px;
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    margin-top: 60px;
+    gap: 10px;
+}

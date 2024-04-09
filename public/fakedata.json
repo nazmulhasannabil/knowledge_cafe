@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "img": "../src/images/1.jpg",
+        "profile":"../src/images/boy1.png",
+        "name": "Nazmul Hasan",
+        "title": "Master of Engineering in Engineering Management",
+        "published": "4, april, 2024",
+        "duration": "5"
+    },
+    {
+        "id": "2",
+        "img": "../src/images/2.png",
+        "profile":"../src/images/boy2.png",
+        "name": "Hasan Nabil",
+        "title": "Master of Science in Data Science",
+        "published": "4, april, 2024",
+        "duration": "5"
+    },
+    {
+        "id": "3",
+        "img": "../src/images/3.png",
+        "profile":"../src/images/girl1.jpg",
+        "name": "Papon Hasan",
+        "title": "Bachelor of Information Technology",
+        "published": "4, april, 2024",
+        "duration": "5"
+    },
+    {
+        "id": "4",
+        "img": "../src/images/4.jpg",
+        "profile":"../src/images/girl1.jpg",
+        "name": "Nazrul Islam",
+        "title": "Bachelor of Computer Science",
+        "published": "4, april, 2024",
+        "duration": "5"
+    }
+]

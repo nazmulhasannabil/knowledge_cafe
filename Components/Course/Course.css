@@ -1,0 +1,26 @@
+.course{
+    padding: 40px;
+}
+.course img{
+    width: 845px;
+    height: 450px;
+    border-radius: 8px;
+}
+.course-info a{
+    cursor: pointer;
+}
+.picname-bookmark{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.picname{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.picname img{
+    height: 60px;
+    width: 60px;
+}
